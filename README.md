@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello World! I'm Nino 👋
 
-<!--
-**ninogjoni/ninogjoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/ninogjoni?label=Follow&style=social)](https://github.com/ninogjoni)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I'm a passionate software engineer driven by curiosity and the desire to build meaningful solutions.
+I believe in selecting the optimal technology stack for each unique challenge, adapting and expanding my expertise to deliver the best possible solutions, regardless of the learning curve involved.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I Do
+- Frontend Development
+- Mobile Development
+- Backend Development
+- DevOps 
+
+## 🛠️ Current Tech Stack
+```text
+Languages:    JavaScript, TypeScript, C#
+Frontend:     Svelte, Vue  
+Backend:      Node.js, ASP.NET Core
+Database:     PostgreSQL
+Tools:        Tauri, VSCode
+```
+
+
+
