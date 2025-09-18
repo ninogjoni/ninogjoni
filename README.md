@@ -18,7 +18,7 @@ Languages:    JavaScript, TypeScript, C#
 Frontend:     Svelte, Vue  
 Backend:      Node.js, ASP.NET Core
 Database:     PostgreSQL
-Tools:        Tauri, VSCode
+Tools:        Tauri, Directus, VSCode
 ```
 
 
