@@ -3,8 +3,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/ninogjoni?label=Follow&style=social)](https://github.com/ninogjoni)
 
 ## 🚀 About Me
-Software engineer driven by curiosity and the desire to build meaningful solutions.
-I believe in selecting the optimal technology stack for each unique challenge to deliver the best possible solutions, regardless of the learning curve involved.
+Software Engineer in the automotive world 🚗⚡  
+Choosing the optimal stack and infrastructure for each problem, learning fast, and delivering code that works in the real world ⚡💻🌍
 
 ### 💻 What I Do
 - Frontend Development
