@@ -12,14 +12,20 @@ Choosing the optimal stack and infrastructure for each problem, learning fast, a
 - Backend Development
 - DevOps 
 
-## 🛠️ Current Tech Stack
+## 🛠️ Current Stack
 ```text
-Languages:    JavaScript, TypeScript, C#
-Frontend:     Svelte, Vue  
-Backend:      Node.js, ASP.NET Core
-Database:     PostgreSQL
-Tools:        Tauri, Directus, VSCode
+💻 Languages: JavaScript/TypeScript | C#  
+🎨 Frontend: Svelte | Vue  
+⚙️ Backend: Node.js | ASP.NET Core
+🔌 APIs: GraphQL | REST  
+🗄️ Database: PostgreSQL  
+🛠️ Tools: Directus | Tauri | VSCode
 ```
 
-
-
+## 🕰 Past Stack:
+```text
+💻 Languages: Java/Kotlin | PHP | Python | Dart  
+📱 Mobile: Android | Flutter
+🎨 Frontend: Angular
+⚙️ Backend: Go | Spring | Django
+```
