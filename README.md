@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 Software Engineer in the automotive world 🚗⚡  
-Choosing the optimal stack and infrastructure for each problem, learning fast, and delivering code that works in the real world ⚡💻🌍
+Choosing the optimal stack and infrastructure for each problem, learning fast, and delivering code that works in the real world
 
 ### 💻 What I Do
 - Frontend Development
