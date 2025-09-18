@@ -22,7 +22,7 @@ Choosing the optimal stack and infrastructure for each problem, learning fast, a
 🛠️ Tools: Directus | Tauri | VSCode
 ```
 
-## 🕰 Past Stack:
+## 🕰 Past Stack
 ```text
 💻 Languages: Java/Kotlin | PHP | Python | Dart  
 📱 Mobile: Android | Flutter
