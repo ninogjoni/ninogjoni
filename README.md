@@ -15,7 +15,8 @@ Choosing the optimal stack and infrastructure for each problem, learning fast, a
 ## 🛠️ Current Stack
 ```text
 💻 Languages: JavaScript/TypeScript | C#  
-🎨 Frontend: Svelte | Vue  
+🎨 Frontend: Svelte | Vue
+📱 Mobile: Expo (React Native)
 ⚙️ Backend: Node.js | ASP.NET Core
 🔌 APIs: GraphQL | REST  
 🗄️ Database: PostgreSQL  
