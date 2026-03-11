@@ -17,7 +17,7 @@ Choosing the optimal stack and infrastructure for each problem, learning fast, a
 💻 Languages: JavaScript/TypeScript | C#  
 🎨 Frontend: Svelte | Vue
 📱 Mobile: Expo (React Native)
-⚙️ Backend: Node.js | ASP.NET Core
+⚙️ Backend: Node.js | Convex | ASP.NET Core 
 🔌 APIs: GraphQL | REST  
 🗄️ Database: PostgreSQL  
 🛠️ Tools: Directus | Tauri | VSCode
